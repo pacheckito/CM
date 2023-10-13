@@ -265,7 +265,7 @@ div {
     font-size: 30px;
     position: absolute;
     margin-left: 23%;
-    margin-top: 420px;
+    margin-top: 470px;
     letter-spacing: 0.2em;
 }
 
@@ -303,6 +303,7 @@ element.style {
     margin-top: 400px;
     margin-left: 35%;
     position: absolute;
+    padding-top: 50px;
 }
 
 .result {
@@ -438,7 +439,7 @@ img, svg {
   font-size: 26px;
   color: black;
   margin-bottom: 10px; /* Reduce the margin between paragraphs */
-  padding-right: 125px;
+  padding-right: 1px;
   justify-content: center;
   align-items: center;
   padding-left: 25px;
