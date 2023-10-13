@@ -438,10 +438,10 @@ img, svg {
   font-size: 26px;
   color: black;
   margin-bottom: 10px; /* Reduce the margin between paragraphs */
-  padding-right: 150px;
+  padding-right: 125px;
   justify-content: center;
   align-items: center;
-  padding-left: 50px;
+  padding-left: 25px;
 }
 
 .atlas-logos {
@@ -450,11 +450,11 @@ img, svg {
   justify-content: center; /* Center the logos horizontally */
   align-items: center; /* Center the logos vertically */
   padding-right: 100px;
-  padding-top: 0px;
+  padding-top: 50px;
 }
 
 .atlas-logos img {
-  width: 200px;
+  width: 175px;
   height: auto;
   margin-right: 10px;
 }
